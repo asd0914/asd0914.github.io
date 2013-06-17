@@ -1,2 +1,1 @@
-asd0914.git.io
-==============
+asd0914.github.io
